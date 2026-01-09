@@ -1,3 +1,3 @@
 name = "nstore"
-main = "src/index.ts"
+main = "index.ts"
 compatibility_date = "2026-01-09"   
