@@ -1,1 +1,11 @@
-# nstore
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <title>My Homepage</title>
+</head>
+<body>
+  <h1>Welcome to My Homepage</h1>
+  <p>This is my first GitHub Pages site.</p>
+</body>
+</html>
